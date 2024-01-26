@@ -1,0 +1,7 @@
+.github
+.idea
+build
+docs
+README.md
+HELP.md
+.gitignore
